@@ -1,0 +1,27 @@
+var structcy__stc__capsense__widget__context__t =
+[
+    [ "fingerCap", "structcy__stc__capsense__widget__context__t.html#aaddfea3cc416d040629708d1723c12f6", null ],
+    [ "sigPFC", "structcy__stc__capsense__widget__context__t.html#a818a66cb212ab10f9e4fb4f25a5b8a14", null ],
+    [ "resolution", "structcy__stc__capsense__widget__context__t.html#a68e0c56527b8e16513c149bfc5adb623", null ],
+    [ "maxRawCount", "structcy__stc__capsense__widget__context__t.html#a5bacc4b698a7982c3fb687a22b9e3287", null ],
+    [ "fingerTh", "structcy__stc__capsense__widget__context__t.html#ab1730b817a861922f4375527d7a1d3b4", null ],
+    [ "proxTh", "structcy__stc__capsense__widget__context__t.html#ac28a8ad287f401bde36886e1995ebd5d", null ],
+    [ "lowBslnRst", "structcy__stc__capsense__widget__context__t.html#abcf89959f49d28d2d396d8beaae05710", null ],
+    [ "snsClk", "structcy__stc__capsense__widget__context__t.html#ac2c184d4476a32763d29fd3c1813d533", null ],
+    [ "rowSnsClk", "structcy__stc__capsense__widget__context__t.html#a2dd4e90d01407e1c2a0ed33f637e3b4f", null ],
+    [ "gestureDetected", "structcy__stc__capsense__widget__context__t.html#a1abcf6d1b22d6cc09006eb81576f81f6", null ],
+    [ "gestureDirection", "structcy__stc__capsense__widget__context__t.html#a1bd21ada41343af3e4102b85ab62edab", null ],
+    [ "xDelta", "structcy__stc__capsense__widget__context__t.html#a723b1a11630c801ad30546fd35cec715", null ],
+    [ "yDelta", "structcy__stc__capsense__widget__context__t.html#a869b23837236045aba13b4fbde082e95", null ],
+    [ "noiseTh", "structcy__stc__capsense__widget__context__t.html#a8bd80c8460e60bc9437e229329ce63fc", null ],
+    [ "nNoiseTh", "structcy__stc__capsense__widget__context__t.html#a6498ae887b0e0a6d8a174e79ed5aacf5", null ],
+    [ "hysteresis", "structcy__stc__capsense__widget__context__t.html#a6db8e6c147c6b3da087fa96508d8704a", null ],
+    [ "onDebounce", "structcy__stc__capsense__widget__context__t.html#a594bf2fb432dbeaa9b23545a9ff3d55a", null ],
+    [ "snsClkSource", "structcy__stc__capsense__widget__context__t.html#ab9a639859b9bb45518c041e37bfca15a", null ],
+    [ "idacMod", "structcy__stc__capsense__widget__context__t.html#acfd1cb8d218cf32a3d9466fa55a4065a", null ],
+    [ "idacGainIndex", "structcy__stc__capsense__widget__context__t.html#aca335177119844084a40aab5a8e4022e", null ],
+    [ "rowIdacMod", "structcy__stc__capsense__widget__context__t.html#a685987ab8fcf308ba48669866de44274", null ],
+    [ "bslnCoeff", "structcy__stc__capsense__widget__context__t.html#abc22672d34d27dc281a8401b7b94544f", null ],
+    [ "status", "structcy__stc__capsense__widget__context__t.html#ad7b0478d50436b8f1cdb982b5d731a68", null ],
+    [ "wdTouch", "structcy__stc__capsense__widget__context__t.html#a8278c09fe62e33e5e460f3064b90e614", null ]
+];
