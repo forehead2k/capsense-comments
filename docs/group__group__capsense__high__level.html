@@ -86,9 +86,10 @@ $(document).ready(function(){initNavTree('group__group__capsense__high__level.ht
 <div class="title">High-level Functions</div>  </div>
 </div><!--header-->
 <div class="contents">
-
-<p>High-level functions represent the highest abstraction layer of the CapSense middleware.  
-<a href="#details">More...</a></p>
+<a name="details" id="details"></a><h2 class="groupheader">General Description</h2>
+<p>High-level functions represent the highest abstraction layer of the CapSense middleware. </p>
+<p>These functions perform tasks such as scanning, data processing, data reporting and tuning interfaces. When performing a task, different initialization is required based on a sensing method or type of widgets is automatically handled by these functions. Therefore, these functions are sensing methods, features, and widget type agnostics.</p>
+<p>All the tasks required to implement a sensing system can be fulfilled by the high-level functions. But, there is a set of <a class="el" href="group__group__capsense__low__level.html">Low-level Functions</a> that provides access to lower level and specific tasks. If a design requires access to low-level tasks, these functions can be used. The functions related to a given sensing methods are not available if the corresponding method is disabled. </p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
@@ -174,10 +175,6 @@ Functions</h2></td></tr>
 <tr class="memdesc:ga1f0fdedcec1ad936f5e9e4ae28f17274"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks command format, header, tail, CRC, etc.  <a href="#ga1f0fdedcec1ad936f5e9e4ae28f17274">More...</a><br /></td></tr>
 <tr class="separator:ga1f0fdedcec1ad936f5e9e4ae28f17274"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<p>High-level functions represent the highest abstraction layer of the CapSense middleware. </p>
-<p>These functions perform tasks such as scanning, data processing, data reporting and tuning interfaces. When performing a task, different initialization is required based on a sensing method or type of widgets is automatically handled by these functions. Therefore, these functions are sensing methods, features, and widget type agnostics.</p>
-<p>All the tasks required to implement a sensing system can be fulfilled by the high-level functions. But, there is a set of <a class="el" href="group__group__capsense__low__level.html">Low-level Functions</a> that provides access to lower level and specific tasks. If a design requires access to low-level tasks, these functions can be used. The functions related to a given sensing methods are not available if the corresponding method is disabled. </p>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="ga533805be2a295feb6c8444a3d914398e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ga533805be2a295feb6c8444a3d914398e">&#9670;&nbsp;</a></span>Cy_CapSense_Init()</h2>

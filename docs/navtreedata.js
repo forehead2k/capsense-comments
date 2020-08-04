@@ -17,24 +17,17 @@ var NAVTREE =
       [ "Changelog", "index.html#section_capsense_changelog", null ],
       [ "More Information", "index.html#section_capsense_more_information", null ]
     ] ],
-    [ "Modules", "modules.html", "modules" ],
-    [ "Data Structures", "annotated.html", [
-      [ "Data Structures", "annotated.html", "annotated_dup" ],
-      [ "Data Fields", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ]
-      ] ]
-    ] ]
+    [ "API Reference", "modules.html", "modules" ],
+    [ "Versions", "^https://forehead2k.github.io/capsense/", null ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"group__group__capsense__macros__gesture.html#ga930273b6f56453073e1ca8ff2abf94c7",
-"structcy__stc__capsense__alp__fltr__config__t.html#a1899bfbe169a38238c06904b75dede02",
-"structcy__stc__capsense__fptr__config__t.html#a64546c38346006ec7c1137dae13e210a",
-"structcy__stc__capsense__widget__crc__data__t.html#a1b9cf99918a603703887386a91037fcb"
+"group__group__capsense__callbacks.html",
+"group__group__capsense__macros__settings.html#ga06a28983f42b3fe5a3146bb7e1cd9236",
+"structcy__stc__capsense__bist__context__t.html#a596d6e49bff364072a0ab877e14c90d5",
+"structcy__stc__capsense__gesture__context__t.html#abdb25e19025b77d4115b551bf54454b5"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
